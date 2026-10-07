@@ -1,7 +1,0 @@
-D:\simss\projectssss\пр.р.7\bin\Debug\пр.р.7.exe.config
-D:\simss\projectssss\пр.р.7\bin\Debug\пр.р.7.exe
-D:\simss\projectssss\пр.р.7\bin\Debug\пр.р.7.pdb
-D:\simss\projectssss\пр.р.7\obj\Debug\пр.р.7.csproj.AssemblyReference.cache
-D:\simss\projectssss\пр.р.7\obj\Debug\пр.р.7.csproj.CoreCompileInputs.cache
-D:\simss\projectssss\пр.р.7\obj\Debug\пр.р.7.exe
-D:\simss\projectssss\пр.р.7\obj\Debug\пр.р.7.pdb
