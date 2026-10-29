@@ -1,0 +1,28 @@
+D:\simss\projectssss\пр.р.7\bin\Debug\пр.р.7.exe.config
+D:\simss\projectssss\пр.р.7\bin\Debug\пр.р.7.exe
+D:\simss\projectssss\пр.р.7\bin\Debug\пр.р.7.pdb
+D:\simss\projectssss\пр.р.7\obj\Debug\пр.р.7.csproj.AssemblyReference.cache
+D:\simss\projectssss\пр.р.7\obj\Debug\пр.р.7.csproj.CoreCompileInputs.cache
+D:\simss\projectssss\пр.р.7\obj\Debug\пр.р.7.exe
+D:\simss\projectssss\пр.р.7\obj\Debug\пр.р.7.pdb
+D:\simss\projectssss\pr.r.7-main\pr.r.7-main\пр.р.7\bin\Debug\пр.р.7.exe.config
+D:\simss\projectssss\pr.r.7-main\pr.r.7-main\пр.р.7\bin\Debug\пр.р.7.exe
+D:\simss\projectssss\pr.r.7-main\pr.r.7-main\пр.р.7\bin\Debug\пр.р.7.pdb
+D:\simss\projectssss\pr.r.7-main\pr.r.7-main\пр.р.7\obj\Debug\пр.р.7.csproj.AssemblyReference.cache
+D:\simss\projectssss\pr.r.7-main\pr.r.7-main\пр.р.7\obj\Debug\пр.р.7.csproj.CoreCompileInputs.cache
+D:\simss\projectssss\pr.r.7-main\pr.r.7-main\пр.р.7\obj\Debug\пр.р.7.exe
+D:\simss\projectssss\pr.r.7-main\pr.r.7-main\пр.р.7\obj\Debug\пр.р.7.pdb
+C:\Users\dinar\Downloads\pr.r.7-main\pr.r.7-main\пр.р.7\bin\Debug\пр.р.7.exe.config
+C:\Users\dinar\Downloads\pr.r.7-main\pr.r.7-main\пр.р.7\bin\Debug\пр.р.7.exe
+C:\Users\dinar\Downloads\pr.r.7-main\pr.r.7-main\пр.р.7\bin\Debug\пр.р.7.pdb
+C:\Users\dinar\Downloads\pr.r.7-main\pr.r.7-main\пр.р.7\obj\Debug\пр.р.7.csproj.AssemblyReference.cache
+C:\Users\dinar\Downloads\pr.r.7-main\pr.r.7-main\пр.р.7\obj\Debug\пр.р.7.csproj.CoreCompileInputs.cache
+C:\Users\dinar\Downloads\pr.r.7-main\pr.r.7-main\пр.р.7\obj\Debug\пр.р.7.exe
+C:\Users\dinar\Downloads\pr.r.7-main\pr.r.7-main\пр.р.7\obj\Debug\пр.р.7.pdb
+D:\Users\1213-11\Documents\2-ИСП\Кондратюк Е. С\показ\pr.r.7-main\pr.r.7-main\пр.р.7\bin\Debug\пр.р.7.exe.config
+D:\Users\1213-11\Documents\2-ИСП\Кондратюк Е. С\показ\pr.r.7-main\pr.r.7-main\пр.р.7\bin\Debug\пр.р.7.exe
+D:\Users\1213-11\Documents\2-ИСП\Кондратюк Е. С\показ\pr.r.7-main\pr.r.7-main\пр.р.7\bin\Debug\пр.р.7.pdb
+D:\Users\1213-11\Documents\2-ИСП\Кондратюк Е. С\показ\pr.r.7-main\pr.r.7-main\пр.р.7\obj\Debug\пр.р.7.csproj.AssemblyReference.cache
+D:\Users\1213-11\Documents\2-ИСП\Кондратюк Е. С\показ\pr.r.7-main\pr.r.7-main\пр.р.7\obj\Debug\пр.р.7.csproj.CoreCompileInputs.cache
+D:\Users\1213-11\Documents\2-ИСП\Кондратюк Е. С\показ\pr.r.7-main\pr.r.7-main\пр.р.7\obj\Debug\пр.р.7.exe
+D:\Users\1213-11\Documents\2-ИСП\Кондратюк Е. С\показ\pr.r.7-main\pr.r.7-main\пр.р.7\obj\Debug\пр.р.7.pdb
